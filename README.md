@@ -1,4 +1,4 @@
-<div style="text-align: justify"> Sorting Visualization </div>
+#<div style="text-align: justify;"> Sorting Visualization </div>
 ### The goal of the project was to create a python application to visualize the sorting algorithms.
 ![](https://github.com/SusanketSarkar/Sorting_Visualization/blob/main/Images/img01.png)
 
