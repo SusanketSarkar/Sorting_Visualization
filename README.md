@@ -17,5 +17,5 @@ The following are some of the examples of the sorting algorithms covered in this
 ![](https://github.com/SusanketSarkar/Sorting_Visualization/blob/main/Images/MERGE.gif)
   
  To run this project you can 
-  - clone it using ```$ git clone https://github.com/FahadulShadhin/Sorting-Algorithms-Visualizer.git ```
+  - clone it using ```$ git clone https://github.com/SusanketSarkar/Sorting_Visualization.git ```
   - run ```main.py``` from root: ```$ py main.py ```
